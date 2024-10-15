@@ -1,0 +1,17 @@
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\bin\Debug\LAB04.exe.config
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\bin\Debug\LAB04.exe
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\bin\Debug\LAB04.pdb
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\bin\Debug\EntityFramework.dll
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\bin\Debug\EntityFramework.xml
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\obj\Debug\LAB04.csproj.AssemblyReference.cache
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\obj\Debug\LAB04.Form1.resources
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\obj\Debug\LAB04.Properties.Resources.resources
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\obj\Debug\LAB04.csproj.GenerateResource.cache
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\obj\Debug\LAB04.csproj.CoreCompileInputs.cache
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\obj\Debug\LAB04.csproj.Up2Date
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\obj\Debug\LAB04.exe
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\obj\Debug\LAB04.pdb
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\obj\Debug\LAB04.Form2.resources
+C:\Users\tuana\OneDrive\Documents\C#\TranTuanAnh-2280618618-LAB04\LAB04\obj\Debug\LAB04.Form3.resources
